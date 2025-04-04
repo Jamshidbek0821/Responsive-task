@@ -474,7 +474,7 @@ body {
 }
 
 
-@media(max-width:583pxpx){
+@media(max-width:583px){
     .ready{
         width: 327px;
         flex-direction: column;
